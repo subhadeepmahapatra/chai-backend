@@ -15,7 +15,7 @@ npm install --save-dev nodemon
 git add .
 git commit -m "setup project files - part 1"
 git push
-
+npm i -D prettier
 
 
 <!-- model link -->
